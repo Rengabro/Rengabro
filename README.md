@@ -45,4 +45,3 @@ Git, GitHub, pnpm, Turborepo, ESLint, Prettier
 
 - GitHub: [github.com/Rengabro](https://github.com/Rengabro)
 - Email: shindy93@naver.com
-- Phone: 010-2688-3400
