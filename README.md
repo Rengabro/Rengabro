@@ -31,12 +31,6 @@ Git, GitHub, pnpm, Turborepo, ESLint, Prettier
 - Kubernetes 기반 배포 환경과 운영 자동화
 - 모니터링을 통한 서비스 안정성 개선
 
-## GitHub Stats
-
-![Rengabro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rengabro&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rengabro&layout=compact&hide_border=true)
-
 ## Contact
 
 - GitHub: [github.com/Rengabro](https://github.com/Rengabro)
