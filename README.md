@@ -20,8 +20,11 @@ AWS, GCP, Azure
 **Container & Orchestration**  
 Docker, Kubernetes
 
-**DevOps & Monitoring**  
-Argo CD, Grafana
+**IaC & DevOps**  
+Terraform, Argo CD
+
+**Monitoring**  
+Grafana
 
 **Frontend**  
 Next.js, TypeScript
