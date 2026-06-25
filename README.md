@@ -14,8 +14,14 @@ Node.js, NestJS, REST API
 **Database & Cache**  
 MySQL, MongoDB, Redis
 
-**Infra & DevOps**  
-AWS, GCP, Azure, Docker, Kubernetes, Argo CD, Grafana
+**Cloud**  
+AWS, GCP, Azure
+
+**Container & Orchestration**  
+Docker, Kubernetes
+
+**DevOps & Monitoring**  
+Argo CD, Grafana
 
 **Frontend**  
 Next.js, TypeScript
